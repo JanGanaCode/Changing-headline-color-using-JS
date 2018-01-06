@@ -1,0 +1,1 @@
+Changing the headline color using JS GetElementById selection
